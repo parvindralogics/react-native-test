@@ -1,4 +1,9 @@
 {
   "name": "TabReduxDemo",
-  "displayName": "TabReduxDemo"
+  "displayName": "TabReduxDemo",
+  "icon": {
+    "ios": "logo-iOS.png",
+    "android": "logo-android.png",
+    "default": "logo.png"
+  }
 }
