@@ -1,0 +1,4 @@
+export const SENDING_DATA = 'LOGIN_USER_PROCESS';
+export const DATA_SUCCESS = 'LOGIN_USER_SUCCESS';
+export const DATA_FAILURE = 'LOGIN_USER_FAILURE';
+export const DATA_CLEAR = 'LOGIN_USER_CLEAR';
